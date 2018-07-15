@@ -1,2 +1,3 @@
+#python script to copy s3 bucket
 import boto3
-boto3.ec2
+
