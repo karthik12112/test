@@ -1,6 +1,7 @@
 #python script to copy s3 bucket
 <<<<<<< HEAD
 import boto3
+copy from s3
 uuuu
 =======
 #import boto3
