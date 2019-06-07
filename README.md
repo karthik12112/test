@@ -1,3 +1,3 @@
-Creates new ami with snowflakes tag
-tags the snapshots
+Creates new ami with snowflakes tag \n
+tags the snapshots \n
 deletes old ami's, snapshots 
